@@ -1,6 +1,7 @@
 # simple-yt-downloader
 requirment
  * pytube
+ * tkinter
 
 pip install pytube
 
